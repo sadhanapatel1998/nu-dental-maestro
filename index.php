@@ -361,15 +361,15 @@ include('php-mailer.php');
                     </div>
                 </div>
 
-                <!-- Dr. Pinaki Kalita -->
+                <!-- Dr. Pinaki K Ganguly -->
                 <div class="col-lg-3 col-md-6">
                     <div class="team-card">
                         <div class="team-img">
-                            <img src="assets/images/home-one/team/dr-pinaki-kalita-ganguly.jpg" alt="Dr. Pinaki Kalita">
+                            <img src="assets/images/home-one/team/dr-pinaki-kalita-ganguly.jpg" alt="Dr. Pinaki K Ganguly">
                         </div>
                         <div class="team-body">
                             <h5>
-                                <a href="dr-pinaki-kalita-ganguly.php">Dr. Pinaki Kalita</a>
+                                <a href="dr-pinaki-kalita-ganguly.php">Dr. Pinaki K Ganguly</a>
                             </h5>
                             <p>Orthodontist & Dentofacial Orthopedics Specialist</p>
                         </div>

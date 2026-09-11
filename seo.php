@@ -108,8 +108,8 @@ $seoData = [
     ],
 
     "dr-pinaki-kalita-ganguly.php" => [
-        "title" => "Dr. Pinaki Kalita | Orthodontist | NU Dental Maestro",
-        "description" => "Meet Dr. Pinaki Kalita, Orthodontist & Dentofacial Orthopedics Specialist at NU Dental Maestro, offering expert teeth alignment and bite correction treatments.",
+        "title" => "Dr. Pinaki K Ganguly | Orthodontist | NU Dental Maestro",
+        "description" => "Meet Dr. Pinaki K Ganguly, Orthodontist & Dentofacial Orthopedics Specialist at NU Dental Maestro, offering expert teeth alignment and bite correction treatments.",
         "keywords" => "Dr Pinaki Kalita, orthodontist, braces treatment, teeth alignment, bite correction",
         "canonical" => "",
         "robots" => "index, follow"

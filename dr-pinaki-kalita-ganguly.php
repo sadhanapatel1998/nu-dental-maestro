@@ -14,12 +14,12 @@ ob_start();
                 <div class="col-lg-10">
                     <!-- Page Content -->
                     <div class="page-content text-center">
-                        <h1>Dr. Pinaki Kalita</h1>
+                        <h1>Dr. Pinaki K Ganguly</h1>
 
                         <ul>
                             <li><a href="/">Home</a></li>
                             <li><i class="far fa-angle-double-right"></i></li>
-                            <li class="active">Dr. Pinaki Kalita</li>
+                            <li class="active">Dr. Pinaki K Ganguly</li>
                         </ul>
 
                     </div>
@@ -37,7 +37,7 @@ ob_start();
                     <div class="col-lg-4">
                         <div class="medolia-team-item mb-30" data-aos="fade-up" data-aos-duration="1000">
                             <div class="member-image">
-                                <img src="assets/images/home-one/team/dr-pinaki-kalita-ganguly.jpg" alt="Dr. Pinaki Kalita">
+                                <img src="assets/images/home-one/team/dr-pinaki-kalita-ganguly.jpg" alt="Dr. Pinaki K Ganguly">
                             </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ ob_start();
                     <div class="col-lg-7">
                         <div class="member-info-wrap mb-30" data-aos="fade-up" data-aos-duration="1200">
 
-                            <h4>Dr. Pinaki Kalita</h4>
+                            <h4>Dr. Pinaki K Ganguly</h4>
 
                             <span class="position">Orthodontist & Dentofacial Orthopedics Specialist</span>
 
@@ -54,7 +54,7 @@ ob_start();
                             </p>
 
                             <p>
-                                Dr. Pinaki Kalita is dedicated to providing specialist orthodontic care, helping patients achieve perfectly aligned teeth, a balanced bite, and confident, healthy smiles through personalized treatment for all ages.
+                                Dr. Pinaki K Ganguly is dedicated to providing specialist orthodontic care, helping patients achieve perfectly aligned teeth, a balanced bite, and confident, healthy smiles through personalized treatment for all ages.
                             </p>
 
                             <div class="medolia-button">
@@ -69,10 +69,10 @@ ob_start();
                 <!-- Team Details Info -->
                 <div class="team-details-info" data-aos="fade-up" data-aos-duration="1200">
 
-                    <h3>Specialized Care by Dr. Pinaki Kalita</h3>
+                    <h3>Specialized Care by Dr. Pinaki K Ganguly</h3>
 
                     <p>
-                        Dr. Pinaki Kalita offers advanced orthodontic treatments designed to align teeth, correct bite issues, and improve overall dental function and facial harmony with comfortable, customized care.
+                        Dr. Pinaki K Ganguly offers advanced orthodontic treatments designed to align teeth, correct bite issues, and improve overall dental function and facial harmony with comfortable, customized care.
                     </p>
 
                     <ul class="check-list style-one">

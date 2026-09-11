@@ -22,7 +22,7 @@
                         </div>
                         <div class="contact-content">
                             <span class="label">Working Hours</span>
-                            <span class="value">Mon - sat: 09:00 AM - 6:00 PM</span>
+                            <span class="value">Mon - Sat: 9:00am-7:00pm</span>
                         </div>
                     </li>
                     <li class="contact-item d-none d-xl-flex">

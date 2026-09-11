@@ -32,6 +32,7 @@ ob_start();
             <div class="team-details-wrapper">
                 <div class="row align-items-center">
 
+                    <!-- Doctor Image -->
                     <div class="col-lg-4">
                         <div class="medolia-team-item mb-30" data-aos="fade-up" data-aos-duration="1000">
                             <div class="member-image">
@@ -40,25 +41,23 @@ ob_start();
                         </div>
                     </div>
 
-                    <div class="col-lg-7">
+                    <!-- Doctor Info -->
+                    <div class="col-lg-8">
                         <div class="member-info-wrap mb-30" data-aos="fade-up" data-aos-duration="1200">
 
                             <h4>Dr. Aneesh Ganguly</h4>
-
-                            <span class="position">Consultant Oral & Maxillofacial Surgeon | Oral, Head & Neck Cancer Specialist</span>
-
                             <p>
-                                <strong>BDS, MDS, FOO, FHNO, FGCOI</strong><br>
-                                Ex-Fellow, Dr. B. Barooah Cancer Institute, Guwahati<br>
-                                Ex-Fellow, Tata Memorial Hospital, Mumbai
+                                <strong>Dr. Aneesh Ganguly, BDS, MDS, FOO, FHNO, FGCOI, Consultant Oral & Maxillofacial Surgeon, Oral, Head and Neck Cancer Specialist (Ex- Fellow Dr. B. Barooah Cancer Institute, Guwahati) (Ex- Fellow Tata Memorial Hospital, Mumbai)</strong>
+                            </p>
+                            <p class="mb-0">Dedicated to delivering advanced oral and maxillofacial surgery alongside expert head and neck cancer care, tailored for optimal healing and recovery. </p>
+                            <p>Specialized in Facial Trauma Management, Impacted Teeth Extraction and Structural Bone Reconstruction.<br>
+                                High-precision implant treatment dedicated to painless visits, flawless placement, and total restoration of your oral health.
                             </p>
 
-                            <p>
-                                Dr. Aneesh Ganguly is dedicated to delivering advanced oral and maxillofacial surgery alongside expert head and neck cancer care, ensuring personalized treatment, optimal healing, and long-term recovery for every patient.
-                            </p>
-
-                            <div class="medolia-button">
-                                <a href="contact-us.php" class="theme-btn style-one">GET APPOINTMENT</a>
+                            <div class="medolia-button mt-30">
+                                <a href="contact-us.php" class="theme-btn style-one">
+                                    GET APPOINTMENT
+                                </a>
                             </div>
 
                         </div>
@@ -66,25 +65,47 @@ ob_start();
 
                 </div>
 
-                <!-- Team Details Info -->
+                <!-- Specialized Care Section -->
                 <div class="team-details-info" data-aos="fade-up" data-aos-duration="1200">
 
                     <h3>Specialized Care by Dr. Aneesh Ganguly</h3>
 
                     <p>
-                        Dr. Aneesh Ganguly provides comprehensive surgical care with expertise in oral and maxillofacial procedures, facial trauma management, head and neck cancer treatment, and advanced dental implant solutions for functional and aesthetic restoration.
+                        Delivering comprehensive oral and maxillofacial surgical care with a patient-focused approach, combining advanced surgical techniques, precision implantology, and specialized head and neck cancer expertise for effective treatment and lasting recovery.
                     </p>
 
                     <ul class="check-list style-one">
-                        <li><i class="fas fa-check-circle"></i>Consultant Oral & Maxillofacial Surgeon with advanced surgical expertise.</li>
 
-                        <li><i class="fas fa-check-circle"></i>Oral, Head & Neck Cancer Specialist with fellowship experience at Dr. B. Barooah Cancer Institute and Tata Memorial Hospital.</li>
+                        <li>
+                            <i class="fas fa-check-circle"></i>
+                            Advanced Oral & Maxillofacial Surgery with personalized treatment planning.
+                        </li>
 
-                        <li><i class="fas fa-check-circle"></i>Specialized in Facial Trauma Management and complex reconstructive procedures.</li>
+                        <li>
+                            <i class="fas fa-check-circle"></i>
+                            Oral, Head & Neck Cancer Specialist with fellowship experience from Dr. B. Barooah Cancer Institute and Tata Memorial Hospital.
+                        </li>
 
-                        <li><i class="fas fa-check-circle"></i>Expert in Impacted Teeth Extraction and Structural Bone Reconstruction.</li>
+                        <li>
+                            <i class="fas fa-check-circle"></i>
+                            Specialized in Facial Trauma Management for complex injuries and reconstruction.
+                        </li>
 
-                        <li><i class="fas fa-check-circle"></i>Provides high-precision dental implant treatments focused on painless procedures, accurate placement, and complete smile restoration.</li>
+                        <li>
+                            <i class="fas fa-check-circle"></i>
+                            Expert in Impacted Teeth Extraction with minimally invasive surgical techniques.
+                        </li>
+
+                        <li>
+                            <i class="fas fa-check-circle"></i>
+                            Structural Bone Reconstruction for restoring function and facial aesthetics.
+                        </li>
+
+                        <li>
+                            <i class="fas fa-check-circle"></i>
+                            High-Precision Dental Implants focused on painless procedures, accurate placement, and complete oral restoration.
+                        </li>
+
                     </ul>
 
                 </div>
