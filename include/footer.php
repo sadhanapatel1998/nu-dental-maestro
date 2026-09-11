@@ -103,6 +103,15 @@
 									<p>H-8, Block H, Green Park Extension, Green Park, New Delhi, Delhi 110016</p>
 								</div>
 							</div>
+								<div class="medolia-info-box mb-15">
+								<div class="icon">
+									<i class="far fa-map-marker-alt"></i>
+								</div>
+								<div class="content">
+									<p>Shop No 16 & 17, Block-c Market, Block C, Yojna Vihar, Anand Vihar, Delhi, 110092</p>
+								</div>
+							</div>
+							
 							<div class="medolia-info-box mb-15">
 								<div class="icon">
 									<i class="far fa-envelope"></i>

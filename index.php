@@ -6,12 +6,12 @@ include('php-mailer.php');
 <main>
     <!--====== Start Hero Section ======-->
     <div class="hero-slider desktop-hero">
+        <div><img src="assets/images/home-one/hero/banner1.jpg" class="w-100"></div>
         <div>
             <a href="contact-us.php">
-                <img src="assets/images/home-one/hero/new-banner.jpeg" class="w-100">
+                <img src="assets/images/home-one/hero/banner2.jpg" class="w-100">
             </a>
         </div>
-        <div><img src="assets/images/home-one/hero/banner1.jpg" class="w-100"></div>
     </div>
 
     <div class="hero-slider mobile-hero">
@@ -32,7 +32,7 @@ include('php-mailer.php');
                     <div class="medolia-image-box">
                         <!-- Medolia Image -->
                         <div class="medolia-image" data-aos="fade-up" data-aos-duration="800">
-                            <img src="assets/images/home-one/about/about-img1.jpg" alt="about image">
+                            <img src="assets/images/home-one/about/about-img.png" alt="about image">
                         </div>
                     </div>
                 </div>
@@ -224,7 +224,7 @@ include('php-mailer.php');
     <!--======  End Service Section  ======-->
 
     <!--====== Start Process Section ======-->
-    <section class="medolia-process-sec pt-80">
+    <section class="medolia-process-sec pt-80 pb-80">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-7">
@@ -232,7 +232,7 @@ include('php-mailer.php');
                     <div class="section-title text-center mb-50" data-aos="fade-up" data-aos-duration="1000">
                         <span class="sub-title">Our Process</span>
                         <h2>Smile Journey to Better</h2>
-                        
+                        <p>From consultation to aftercare, we ensure personalized treatment, advanced technology, and a comfortable experience for a healthier, more confident smile.</p>
                     </div>
                 </div>
             </div>
@@ -317,6 +317,84 @@ include('php-mailer.php');
     </section>
     <!--====== End Process Section ======-->
 
+    <!--====== Start Team Section ======-->
+    <section class="custom-team-section pt-80 pb-80 gray-light-color">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-7">
+                    <!-- Section Title -->
+                    <div class="section-title text-center mb-50" data-aos="fade-up" data-aos-duration="1000">
+                        <span class="sub-title">Our Team</span>
+                        <h2>Meet Our Dental Experts</h2>
+                        <p>Our experienced dental professionals combine expertise, advanced care, and a patient-first approach to create confident, healthy smiles.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-4">
+                <!-- Dr. Ankit Agarwal -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-card">
+                        <div class="team-img">
+                            <img src="assets/images/home-one/team/dr-ankit-agarwal.jpg" alt="Dr. Ankit Agarwal">
+                        </div>
+                        <div class="team-body">
+                            <h5>
+                                <a href="dr-ankit-agarwal.php">Dr. Ankit Agarwal</a>
+                            </h5>
+                            <p>Consultant Periodontist & Implantologist</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dr. Aneesh Ganguly -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-card">
+                        <div class="team-img">
+                            <img src="assets/images/home-one/team/dr-aneesh-ganguly.jpg" alt="Dr. Aneesh Ganguly">
+                        </div>
+                        <div class="team-body">
+                            <h5>
+                                <a href="dr-aneesh-ganguly.php">Dr. Aneesh Ganguly</a>
+                            </h5>
+                            <p>Consultant Oral & Maxillofacial Surgeon</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dr. Pinaki Kalita -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-card">
+                        <div class="team-img">
+                            <img src="assets/images/home-one/team/dr-pinaki-kalita-ganguly.jpg" alt="Dr. Pinaki Kalita">
+                        </div>
+                        <div class="team-body">
+                            <h5>
+                                <a href="dr-pinaki-kalita-ganguly.php">Dr. Pinaki Kalita</a>
+                            </h5>
+                            <p>Orthodontist & Dentofacial Orthopedics Specialist</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dr. Ritika Sharma -->
+                <div class="col-lg-3 col-md-6">
+                    <div class="team-card">
+                        <div class="team-img">
+                            <img src="assets/images/home-one/team/dr-ritika-sharma.jpg" alt="Dr. Ritika Sharma">
+                        </div>
+                        <div class="team-body">
+                            <h5>
+                                <a href="dr-ritika-sharma.php">Dr. Ritika Sharma</a>
+                            </h5>
+                            <p>Dental Surgeon</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--====== end Team Section ======-->
 
     <!--====== Start Choose Section ======-->
     <section class="medolia-choose-sec pt-80 pb-50">
@@ -405,7 +483,6 @@ include('php-mailer.php');
         </div>
     </section>
     <!--====== End Choose Section ======-->
-
 
     <!--====== Start Booking Section ======-->
     <section class="medolia-booking-sec pt-80 pb-60">
@@ -664,7 +741,6 @@ include('php-mailer.php');
         </div>
     </section>
     <!--====== End Testimonial Section ======-->
-
 
     <!--====== Start Counter Section ======-->
     <section class="medolia-counter-sec pt-40 pb-30 mt-80">

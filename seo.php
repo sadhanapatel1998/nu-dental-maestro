@@ -90,6 +90,39 @@ $seoData = [
         "robots" => "index, follow"
     ],
 
+
+    "dr-aneesh-ganguly.php" => [
+        "title" => "Dr. Aneesh Ganguly | Oral & Maxillofacial Surgeon | NU Dental Maestro",
+        "description" => "Meet Dr. Aneesh Ganguly, Consultant Oral & Maxillofacial Surgeon and Oral, Head & Neck Cancer Specialist at NU Dental Maestro, offering advanced surgical care and dental implant solutions.",
+        "keywords" => "Dr Aneesh Ganguly, oral surgeon, maxillofacial surgeon, head and neck cancer specialist, dental implants",
+        "canonical" => "",
+        "robots" => "index, follow"
+    ],
+
+    "dr-ankit-agarwal.php" => [
+        "title" => "Dr. Ankit Agarwal | Periodontist & Implantologist | NU Dental Maestro",
+        "description" => "Meet Dr. Ankit Agarwal, Consultant Periodontist & Implantologist at NU Dental Maestro, providing expert gum care and advanced dental implant treatments.",
+        "keywords" => "Dr Ankit Agarwal, periodontist, implantologist, gum disease treatment, dental implants",
+        "canonical" => "",
+        "robots" => "index, follow"
+    ],
+
+    "dr-pinaki-kalita-ganguly.php" => [
+        "title" => "Dr. Pinaki Kalita | Orthodontist | NU Dental Maestro",
+        "description" => "Meet Dr. Pinaki Kalita, Orthodontist & Dentofacial Orthopedics Specialist at NU Dental Maestro, offering expert teeth alignment and bite correction treatments.",
+        "keywords" => "Dr Pinaki Kalita, orthodontist, braces treatment, teeth alignment, bite correction",
+        "canonical" => "",
+        "robots" => "index, follow"
+    ],
+
+    "dr-ritika-sharma.php" => [
+        "title" => "Dr. Ritika Sharma | Dental Surgeon | NU Dental Maestro",
+        "description" => "Meet Dr. Ritika Sharma, Dental Surgeon at NU Dental Maestro, providing preventive care, routine checkups, restorative dentistry, and root canal treatment.",
+        "keywords" => "Dr Ritika Sharma, dental surgeon, root canal treatment, restorative dentistry, preventive dental care",
+        "canonical" => "",
+        "robots" => "index, follow"
+    ],
+
     "thankyou.php" => [
         "title" => "Thank You | NU Dental Maestro",
         "description" => "Thank you for contacting NU Dental Maestro. Our team will get in touch with you shortly.",
@@ -128,5 +161,3 @@ $defaultMeta = [
 */
 
 $pageMeta = $seoData[$currentPage] ?? $defaultMeta;
-
-?>

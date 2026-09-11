@@ -610,8 +610,8 @@ button {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #7ec6b1;
-  color: var(--heading-color);
+background-color: #0f15cb;
+    color: #f2f2f1;
   font-size: 36px;
   margin-bottom: 20px;
 }

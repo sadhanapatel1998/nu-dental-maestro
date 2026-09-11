@@ -583,7 +583,7 @@ label {
   display: inline-block;
   position: relative;
   border: 3px solid;
-  border-color: var(--primary-black-color) var(--primary-black-color) transparent transparent;
+    border-color: #0100c6 #86ceb5 transparent transparent;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-animation: rotation 1s linear infinite;
@@ -984,9 +984,9 @@ label {
 
 /* Header Navigation */
 @media screen and (max-width: 991.98px) {
-  .header-navigation {
-    padding: 20px 0;
-  }
+    .header-navigation {
+        padding: 2px 0;
+    }
 }
 
 .header-navigation .primary-menu {
@@ -1002,7 +1002,8 @@ label {
 }
 
 .header-navigation .site-branding {
-  max-width: 320px;
+    max-width: 280px;
+    padding: 5px 0;
 }
 
 .header-navigation .main-menu ul>li {
@@ -1027,6 +1028,7 @@ label {
   line-height: 1;
   color: var(--heading-color);
   padding: 36px 0;
+      font-size: 18px;
 }
 
 @media screen and (max-width: 1199.98px) {
@@ -1484,7 +1486,9 @@ label {
 .footer-schedule-widget .widget-content span:not(:last-child) {
   margin-bottom: 20px;
 }
-
+.default-footer .footer-about-widget img{
+  width: 280px;
+}
 .default-footer .footer-widget-area .footer-widget.footer-about-widget p {
   color: #CDD1D6;
   margin-bottom: 20px;
@@ -1946,9 +1950,9 @@ label {
 
 /* Responsive Styles */
 @media (max-width: 1300px) {
-  .header-navigation .site-branding {
-    max-width: 250px;
-  }
+    .header-navigation .site-branding {
+        max-width: 200px;
+    }
 }
 
 @media (min-width: 992px) {

@@ -279,7 +279,7 @@
 }
 
 .medolia-about-sec .medolia-image-box {
-  padding-right: 100px;
+  padding-right: 50px;
   position: relative;
 }
 
@@ -299,7 +299,6 @@
   align-items: center;
 }
 
-
 @media (max-width: 767.98px) {
   .medolia-about-sec .medolia-content-box .medolia-button-box .medolia-button {
     margin-bottom: 20px;
@@ -309,14 +308,17 @@
 @media (max-width: 480px) {
   .page-banner .page-content ul li {
     font-size: 14px;
-}
-      .page-banner {
-        padding: 40px 0 40px !important;
-    }
-        .page-banner .page-content h1 {
-        font-size: 33px;
-        line-height: 32px;
-    }
+  }
+
+  .page-banner {
+    padding: 40px 0 40px !important;
+  }
+
+  .page-banner .page-content h1 {
+    font-size: 33px;
+    line-height: 32px;
+  }
+
   .medolia-author-box {
     gap: 0px !important;
   }
@@ -345,16 +347,18 @@
     margin-right: 15px;
   }
 
-  .medolia-services-sec .medolia-arrows{
+  .medolia-services-sec .medolia-arrows {
     display: none !important;
   }
 }
+
 @media (max-width: 415px) {
-    .medolia-author-box {
+  .medolia-author-box {
     display: none !important;
   }
 
 }
+
 .medolia-about-sec .medolia-schedule-box {
   position: absolute;
   bottom: 0;
@@ -818,7 +822,7 @@
   border-bottom: 2px solid #e8f5f1;
 }
 
-.booking-form .form-group{
+.booking-form .form-group {
   margin-bottom: 20px;
 }
 
@@ -1385,4 +1389,137 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+.custom-team-section {
+  
+}
+.custom-team-section .team-section {
+  padding: 80px 0;
+  background: linear-gradient(180deg, #f8fdff 0%, #eef9ff 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.custom-team-section .team-section:before,
+.custom-team-section .team-section:after {
+  content: "";
+  position: absolute;
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  background: rgba(46, 196, 182, .08);
+  z-index: 0;
+}
+
+.custom-team-section .team-section:before {
+  top: -80px;
+  left: -80px;
+}
+
+.custom-team-section .team-section:after {
+  bottom: -100px;
+  right: -100px;
+}
+
+.custom-team-section .team-card {
+    position: relative;
+    background: rgba(255, 255, 255, .78);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgb(126 198 177);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: .45s ease;
+    box-shadow: 0 18px 40px rgba(0, 56, 128, .08);
+    z-index: 1;
+}
+
+.custom-team-section .team-card:hover {
+  transform: translateY(-12px);
+  box-shadow: 0 28px 55px rgba(0, 56, 128, .16);
+}
+
+.custom-team-section .team-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.custom-team-section .team-img img {
+  width: 100%;
+     height: auto;
+  object-fit: cover;
+  transition: .5s ease;
+}
+
+.custom-team-section .team-card:hover .team-img img {
+  transform: scale(1.08);
+}
+
+.custom-team-section .team-img:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 33, 113, .35), transparent 55%);
+}
+
+.custom-team-section .team-body {
+  padding: 24px;
+  text-align: center;
+}
+
+.custom-team-section .team-body h5 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #171819;
+    margin-bottom: 6px;
+}
+
+.custom-team-section .team-body p {
+    color: #2c31adf0;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 22px;
+        min-height: 44px;
+}
+.custom-team-section .team-social {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.custom-team-section .team-social a {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background: #fff;
+  color: #0b4db3;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, .08);
+  transition: .35s;
+}
+
+.custom-team-section .team-social a:hover {
+  background: linear-gradient(135deg, #0b4db3, #2ec4b6);
+  color: #fff;
+  transform: translateY(-3px);
+}
+
+.custom-team-section .team-card:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background: linear-gradient(90deg, #0b4db3, #2ec4b6);
+}
+
+@media(max-width:991px) {
+  .custom-team-section .team-section {
+    padding: 60px 0;
+  }
+
 }

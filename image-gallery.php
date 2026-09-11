@@ -63,8 +63,70 @@ ob_start();
             </div>
 
             <div class="row gallery-popup">
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-10.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-10.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
 
-                <!-- Gallery Item -->
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-11.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-11.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-15.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-15.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-13.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-13.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-14.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-14.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-12.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-12.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
+                    <a href="assets/images/home-one/gallery/gal-16.jpeg" class="gallery-item">
+                        <img src="assets/images/home-one/gallery/gal-16.jpeg" class="img-fluid" alt="NU Dental Maestro Clinic">
+                        <div class="gallery-overlay">
+                            <i class="fas fa-search-plus"></i>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- <div class="row gallery-popup">
                 <div class="col-lg-4 col-md-6 mb-30" data-aos="zoom-in">
                     <a href="assets/images/home-one/gallery/gal-1.jpg" class="gallery-item">
                         <img src="assets/images/home-one/gallery/gal-1.jpg" class="img-fluid" alt="NU Dental Maestro Clinic">
@@ -119,7 +181,7 @@ ob_start();
                     </a>
                 </div>
 
-            </div>
+            </div> -->
         </div>
     </section>
 

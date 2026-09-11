@@ -34,7 +34,7 @@ include('php-mailer.php');
     <section class="medolia-contact-info-sec pt-80">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Item -->
                     <div class="medolia-cn-info bg_one mb-40" data-aos="fade-up" data-aos-duration="1000">
                         <div class="icon">
@@ -56,7 +56,7 @@ include('php-mailer.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Item -->
                     <div class="medolia-cn-info bg_two mb-40" data-aos="fade-up" data-aos-duration="1200">
                         <div class="icon">
@@ -69,15 +69,28 @@ include('php-mailer.php');
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12">
                     <!-- Item -->
                     <div class="medolia-cn-info bg_three mb-40" data-aos="fade-up" data-aos-duration="1400">
                         <div class="icon">
                             <i class="far fa-map-marker-alt"></i>
                         </div>
                         <div class="content">
-                            <span>Location</span>
+                            <span>Green Park Extension</span>
                             <h3>H-8, Block H, Green Park Extension, Green Park, New Delhi, Delhi 110016</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <!-- Item -->
+                    <div class="medolia-cn-info bg_four mb-40" data-aos="fade-up" data-aos-duration="1400">
+                        <div class="icon">
+                            <i class="far fa-map-marker-alt"></i>
+                        </div>
+                        <div class="content">
+                            <span>Yojna Vihar</span>
+                            <h3> 
+                              Shop No 16 & 17, Block-c Market, Block C, Yojna Vihar, Anand Vihar, Delhi, 110092</h3>
                         </div>
                     </div>
                 </div>
