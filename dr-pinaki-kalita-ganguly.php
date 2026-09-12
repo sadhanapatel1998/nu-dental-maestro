@@ -31,9 +31,7 @@ ob_start();
     <section class="medolia-team-details-sec pt-80">
         <div class="container">
             <div class="team-details-wrapper">
-
                 <div class="row align-items-center">
-
                     <div class="col-lg-4">
                         <div class="medolia-team-item mb-30" data-aos="fade-up" data-aos-duration="1000">
                             <div class="member-image">
@@ -50,7 +48,7 @@ ob_start();
                             <span class="position">Orthodontist & Dentofacial Orthopedics Specialist</span>
 
                             <p>
-                                <strong>MDS (Orthodontics & Dentofacial Orthopedics)</strong>
+                                <strong>BDS, MDS (Orthodontics & Dentofacial Orthopedics)</strong>
                             </p>
 
                             <p>

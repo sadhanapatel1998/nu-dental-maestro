@@ -1473,9 +1473,18 @@
     color: #171819;
     margin-bottom: 6px;
 }
-
+.custom-team-section .team-body .degree {
+    font-size: 15px;
+    min-height: 13px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #070786;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 3px 0px;
+}
 .custom-team-section .team-body p {
-    color: #2c31adf0;
+    color: #252525f0;
     font-weight: 600;
     margin-bottom: 8px;
     line-height: 22px;

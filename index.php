@@ -341,6 +341,7 @@ include('php-mailer.php');
                             <h5>
                                 <a href="dr-ankit-agarwal.php">Dr. Ankit Agarwal</a>
                             </h5>
+                            <p class="degree">BDS, MDS, PhD</p>
                             <p>Consultant Periodontist & Implantologist</p>
                         </div>
                     </div>
@@ -356,6 +357,7 @@ include('php-mailer.php');
                             <h5>
                                 <a href="dr-aneesh-ganguly.php">Dr. Aneesh Ganguly</a>
                             </h5>
+                            <p class="degree">BDS, MDS, FOO, FHNO, FGCOI</p>
                             <p>Consultant Oral & Maxillofacial Surgeon</p>
                         </div>
                     </div>
@@ -371,6 +373,7 @@ include('php-mailer.php');
                             <h5>
                                 <a href="dr-pinaki-kalita-ganguly.php">Dr. Pinaki K Ganguly</a>
                             </h5>
+                            <p class="degree">BDS, MDS </p>
                             <p>Orthodontist & Dentofacial Orthopedics Specialist</p>
                         </div>
                     </div>
@@ -386,6 +389,7 @@ include('php-mailer.php');
                             <h5>
                                 <a href="dr-ritika-sharma.php">Dr. Ritika Sharma</a>
                             </h5>
+                            <p class="degree">BDS</p>
                             <p>Dental Surgeon</p>
                         </div>
                     </div>
